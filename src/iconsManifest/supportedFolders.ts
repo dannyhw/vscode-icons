@@ -662,7 +662,7 @@ export const extensions: IFolderCollection = {
     },
     {
       icon: 'story',
-      extensions: ['story', 'stories', '__stories__', '.storybook'],
+      extensions: ['story', 'stories', '__stories__', '.storybook', '.rnstorybook'],
       format: FileFormat.svg,
     },
     { icon: 'style', extensions: ['style', 'styles'], format: FileFormat.svg },
